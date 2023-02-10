@@ -1,0 +1,15 @@
+body{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+:root, body, html{
+  background-color: white;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
